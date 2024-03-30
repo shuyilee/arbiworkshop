@@ -8,7 +8,7 @@ import { arbitrumSepolia } from "wagmi/chains";
 import { walletConnect } from "wagmi/connectors";
 
 // 1. Get projectId at https://cloud.walletconnect.com
-const projectId = "fc8acddf0c859465327faa85a2a3edac";
+const projectId = "d747531e877ae30d71e3f15e38ebaa29";
 
 const chains = [arbitrumSepolia] as const;
 
